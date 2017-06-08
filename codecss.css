@@ -1,0 +1,24 @@
+body {
+  background-color: orange;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+header {
+  color: white;
+  background-image: url(http://ajaccioastronomie.com/wp-content/uploads/2012/09/0035-Poudre-dOr-1024x7681.jpg);
+}
+table, th, td {
+   border: 1px solid black;
+   border-collapse: collapse;
+}
+table {
+  margin: auto;
+  background-color: grey;
+}
+p {
+  margin: 10px 50px;
+}
+caption {
+  font-weight: bolder;
+  font-size: 28px;
+}
